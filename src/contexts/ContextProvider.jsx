@@ -1,4 +1,4 @@
-import React, {useState, useContext, createContext, } from "react";
+import React, {useState, useContext, createContext } from "react";
 const MyContext = createContext();
 const initialState = {
     Calendar: false,
